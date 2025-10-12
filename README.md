@@ -5,6 +5,6 @@
 
   # RoboMancer-Group's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[robomancer-group.github.io](https://robomancer-group.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
