@@ -1,0 +1,8 @@
+在终端运行如下指令：
+1、gem install bundler
+
+2、bundle update jekyll jekyll-sass-converter sass-embedded
+
+3、bundle install
+
+4、bundle exec jekyll serve --livereload --host 0.0.0.0 --port 4000
