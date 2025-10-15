@@ -228,6 +228,5 @@
   publisher: Pre-print on arXiv
   date: '2024-01-01'
   link: https://doi.org/g96xwn
-  image: images/pi0.png
   plugin: sources.py
   file: sources.yaml
