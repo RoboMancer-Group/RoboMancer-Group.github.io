@@ -1,0 +1,24 @@
+---
+title: Publications
+nav:
+  order: 1
+  tooltip: Our publications
+---
+
+# {% include icon.html icon="fa-solid fa-book" %}Publications
+
+...示例...
+
+{% include section.html %}
+
+## Highlighted
+
+{% include citation.html lookup="π₀: A Vision-Language-Action Flow Model for General Robot Control" style="rich" %}
+
+## All
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
