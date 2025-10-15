@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="π₀: A Vision-Language-Action Flow Model for General Robot Control" style="rich" %}
+{% include citation.html lookup="$\u03C0_0$: A Vision-Language-Action Flow Model for General Robot Control" %}
 
 ## All
 
