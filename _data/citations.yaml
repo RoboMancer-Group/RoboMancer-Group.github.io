@@ -219,14 +219,36 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2410.06434
-  title: "$\u0393$-convergence of an Enhanced Finite Element Method for Mani\xE0's\
-    \ Problem Exhibiting the Lavrentiev Gap Phenomenon"
+- id: doi:10.48550/arXiv.2410.24164
+  title: "$\u03C0_0$: A Vision-Language-Action Flow Model for General Robot Control"
   authors:
-  - Xiaobing Feng
-  - Joshua M. Siktar
+  - Kevin Black
+  - Noah Brown
+  - Danny Driess
+  - Adnan Esmail
+  - Michael Equi
+  - Chelsea Finn
+  - Niccolo Fusai
+  - Lachy Groom
+  - Karol Hausman
+  - Brian Ichter
+  - Szymon Jakubczak
+  - Tim Jones
+  - Liyiming Ke
+  - Sergey Levine
+  - Adrian Li-Bell
+  - Mohith Mothukuri
+  - Suraj Nair
+  - Karl Pertsch
+  - Lucy Xiaoyang Shi
+  - James Tanner
+  - Quan Vuong
+  - Anna Walling
+  - Haohuan Wang
+  - Ury Zhilinsky
   publisher: Pre-print on arXiv
   date: '2024-01-01'
-  link: https://doi.org/g96xwn
+  link: https://doi.org/g9gjs3
+  image: images/pi0.png
   plugin: sources.py
   file: sources.yaml
