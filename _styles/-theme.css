@@ -23,13 +23,13 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
-  --code: "Roboto Mono", monospace;
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --title: "Poppins", sans-serif;
+  --heading: "Poppins", sans-serif;
+  --body: "Poppins", sans-serif;
+  --code: "Fira Code", monospace;
+  --large: 1.5rem;
+  --xl: 1.5rem;
+  --xxl: 2.5rem;
   --thin: 200;
   --regular: 400;
   --semi-bold: 500;
