@@ -13,7 +13,8 @@ nav:
 
 ## Highlighted
 
-...示例...
+{% include citation.html lookup="Practical Prescribed Time Control Framework for Decentralized Robust Steering
+    of Connected Automated Vehicles Under Deception Attacks" style="rich" %}
 
 ## All
 
