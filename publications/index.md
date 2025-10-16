@@ -13,8 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Practical Prescribed Time Control Framework for Decentralized Robust Steering
-    of Connected Automated Vehicles Under Deception Attacks" style="rich" %}
+{% include citation.html lookup="doi:10.1109/TSMC.2025.3561509" style="rich" %}
 
 ## All
 
