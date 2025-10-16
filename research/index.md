@@ -1,7 +1,10 @@
-<!-- ---
+---
 title: Research
 nav:
   order: 1
-  tooltip: Published works
---- -->
+  tooltip: Learn about our research
+---
+
+
+
 
