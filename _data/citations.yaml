@@ -11,8 +11,8 @@
   date: '2025-01-01'
   link: https://doi.org/g96x4g
   orcid: 0000-0001-5739-8011
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TASE.2024.3488692
   title: Marden-Based Homotopic Enclosed Safe Motion Corridor Generation for UAV Navigation
     in Complex Environments
@@ -72,8 +72,9 @@
   date: '2025-07-01'
   link: https://doi.org/g96x4m
   orcid: 0000-0001-5739-8011
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/10.1109TSMC.2025.3561509.jpg
 - id: doi:10.1007/s12555-022-0603-9
   title: Super Twisting Observer-based Arbitrary Convergence Time Sliding Mode Control
     for Uncertain System
