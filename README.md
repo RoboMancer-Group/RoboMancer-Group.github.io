@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # RoboMancer-Group's Website
+  # RoboMancer Group's Website
 
   Visit **[robomancer-group.github.io](https://robomancer-group.github.io)** 🚀
 
