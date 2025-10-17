@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-...示例...
+...会按照 pi->phd->其他 这样的顺序排列...
 
 {% include section.html %}
 

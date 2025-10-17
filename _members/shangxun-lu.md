@@ -1,5 +1,5 @@
 ---
 name: 卢尚逊(ShangXun Lu)
-image: images/photo.svg
+image: images/members/example.svg
 role: student
 ---

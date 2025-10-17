@@ -1,6 +1,6 @@
 ---
 name: 马宏军(Hongjun Ma)
-image: images/photo.svg
+image: images/members/example.svg
 role: pi
 description: Principal Investigator
 affiliation: South China University of Technology
