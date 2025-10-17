@@ -18,9 +18,9 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | regex_strip }}"
   >
-    {% if type %}
+    <!-- {% if type %}
       {% include icon.html icon=type.icon %}
-    {% endif %}
+    {% endif %} -->
 
     <img
       src="{{ member.image | relative_url | uri_escape }}"

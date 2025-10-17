@@ -1,7 +1,7 @@
 ---
 ---
 
-# RoboMancer-Group's Website
+# RoboMancer Group's Website
 
 Description of lab.
 
